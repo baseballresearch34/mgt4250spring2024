@@ -3,7 +3,7 @@ Author: Grace Dieleman, gdieleman@elon.edu
 
 ## Project Description
  ### Tableau Public Link
-  - <https://public.tableau.com/views/MGT4250FinalProject/Vis4?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link>
+  - <https://public.tableau.com/views/GraceMGT4250Project/Vis4?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link>
   - This repository is for the final project of MGT 4250 at Elon University
   - This datasetlooks at player per-game and advanced statistics for the NBA's 2022-23 season with player salary data, creating a comprehensive resource for understanding the performance and financial aspects of professional basketball players. 
 ### Project Questions
