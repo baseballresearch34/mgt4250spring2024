@@ -26,9 +26,12 @@ Author: Grace Dieleman, gdieleman@elon.edu
   - ![image](https://github.com/baseballresearch34/mgt4250spring2024/assets/148730367/07bf1434-f439-4d07-b7df-64c4f7d39a07)
 
  - This visual combines the last few showing the average salary based on position AND total shooting percentage. In a logicial mindset, you would think that the players that score the most points should get paid the most based on their performance but this shows almost the complete opposite. Players that have the highest shooting percentage earn the least, and players that have the smallest shooting percentage average the most. This graph and dataset doesn't factor in outside elements that could contribute to salary. This is important to the question to show that you might not be able to determine salary based on performance.
-  - x
+  - ![image](https://github.com/baseballresearch34/mgt4250spring2024/assets/148730367/f310d8d8-89c0-4536-b285-7d8e4b7d40b6)
+  - ![image](https://github.com/baseballresearch34/mgt4250spring2024/assets/148730367/ada66255-e91f-434b-acc7-e71d68c77612)
+
  - This final visualization shows a scatter plot of average salary by position and team. This outlines where teams are currently allocating all of their wages. Despite cetners and shooting guards having higher overall shooting percentages, power forwards and point guards make significantly more money. Those latter positions do tend to average a few points higher per game, but they are also the positions that are making the big 3 point shots and commanding the ball on the court. This visualization is important to teams as leverage against the rest of the NBA for player salaries and to again highlight that it is not always performance that is a factor. Other elements include social media follwoing, fan engagement and fan favorite players, celebrity status, etc.
-  - x
+  - ![image](https://github.com/baseballresearch34/mgt4250spring2024/assets/148730367/7e5cf4b6-9c7e-445d-bef5-1d3489149a73)
+
 ## Discussion & Summary
 ### Article / Study
 - <https://thesportjournal.org/article/nba-players-pay-and-performance-what-counts/>
